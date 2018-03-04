@@ -1,0 +1,29 @@
+.font-1 {
+  font-family: 'Pacifico', cursive;
+}
+
+.font-2 {
+  font-family: 'Dancing Script', cursive;
+}
+
+.font-3 {
+  font-family: 'Mina', sans-serif;
+}
+
+.font-4 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.font-5 {
+  font-family: 'Lobster', cursive;
+}
+
+.font-6 {
+  font-family: 'Coiny', cursive;
+}
+
+.position {
+  font-size: 2.5rem;
+  padding: 1.5rem;
+  border-radius: 10px;
+}
